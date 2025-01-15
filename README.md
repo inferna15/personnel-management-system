@@ -1,5 +1,4 @@
-<h1>Personnel Management System</h1>
-<h1>(Personel Yönetim Sistemi)</h1>
+<h1>Personnel Management System<br>(Personel Yönetim Sistemi)</h1>
 <p>Bu uygulama ile personel bilgileri kaydedilebilir, güncellenebilir ve silinebilir. Veritabanında personeller ve kullanıcılar adında iki tablo var.</p>
 <br>
 <h2>Görseller</h2>
